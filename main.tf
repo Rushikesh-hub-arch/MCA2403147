@@ -13,3 +13,5 @@ resource "local_file" "status_log" {
   filename = "status.log"
   content  = "Infrastructure initialized successfully."
 }
+
+#This change
